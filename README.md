@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/yashika-uvaraj-5381161a3/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gnr3c9Uqzus3U6IU4tGZnkJ8Gv24yXDx/view](https://drive.google.com/file/d/1gnr3c9Uqzus3U6IU4tGZnkJ8Gv24yXDx/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tk9cM1Xvww_vLpZE4xVQnE1Pk9NaXIFu/view?usp=drivesdk]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
