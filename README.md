@@ -1,15 +1,16 @@
 # Yashika Uvaraj
 ### Full-Stack Developer | Problem Solver | Software Engineer
 
-A detail-oriented Software Engineer specializing in the **MERN Stack** and **Data Structures & Algorithms**. I focus on building scalable web applications and solving complex computational problems.
+Software Engineer | Problem Solver | Aspiring SDE-1
 
+Dedicated to mastering the art of scalable software engineering. My current focus is at the intersection of Clean Architecture and Advanced Data Structures. I am actively refining my ability to break down ambiguous problems into modular, high-performance code, with a long-term goal of contributing to large-scale distributed systems.
 ---
 
 ### Technical Expertise
 
 * **Frontend:** React.js, Tailwind CSS, Bootstrap, HTML5, CSS3
 * **Backend:** Node.js, Express.js
-* **Databases:** MongoDB, MySQL
+* **Databases:** Postgresql,MongoDB, MySQL
 * **Languages:** C, C++, JavaScript, Python
 * **Tools:** Git, GitHub, VS Code
 
@@ -21,13 +22,6 @@ A detail-oriented Software Engineer specializing in the **MERN Stack** and **Dat
 * **LinkedIn:** [linkedin.com/in/yashika-uvaraj](https://www.linkedin.com/in/yashika-uvaraj-5381161a3/)
 * **LeetCode:** [leetcode.com/yashika_u](https://leetcode.com/yashika_u/)
 * **Resume:** [View My Experience](https://drive.google.com/file/d/1tk9cM1Xvww_vLpZE4xVQnE1Pk9NaXIFu/view?usp=drivesdk)
-
----
-
-### Current Focus
-
-* **Learning:** Advanced system design and MERN stack optimization.
-* **Collaboration:** Open to contributing to full-stack projects and solving DSA-related challenges.
 
 ---
 
