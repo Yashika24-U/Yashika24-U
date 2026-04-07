@@ -5,13 +5,29 @@ Dedicated to mastering the art of scalable software engineering. My current focu
 
 
 ### Technical Expertise
+## 🛠 Skills & Technical Stack
 
-* **Frontend:** React.js, Tailwind CSS, Bootstrap, HTML5, CSS3
-* **Backend:** Node.js, Express.js
-* **Databases:** Postgresql,MongoDB, MySQL
-* **Languages:** C, C++, JavaScript, Python
-* **Tools:** Git, GitHub, VS Code
+### 💻 Languages & Core
+* **Languages:** JavaScript (ES6+), Java, Python, C, C++
+* **Architectural Concepts:** System Design (Scalability, Distributed Systems, Load Balancing)
 
+### 🌐 Frontend Development
+* **Frameworks:** Next.js, React.js
+* **Styling:** Tailwind CSS, Bootstrap, CSS3, HTML5
+
+### ⚙️ Backend & Infrastructure
+* **Runtime/Frameworks:** Node.js, Express.js
+* **Containerization:** Docker, Docker Compose
+* **Caching & Performance:** Redis
+
+### 🗄️ Databases
+* **Relational:** PostgreSQL, MySQL
+* **NoSQL:** MongoDB
+
+### 🔧 Tools & Workflow
+* **Version Control:** Git, GitHub
+* **Editor:** VS Code
+* **Environment:** Linux/Unix Shell (Bash)
 ---
 
 ### Professional Link
