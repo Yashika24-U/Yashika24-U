@@ -1,5 +1,5 @@
 # Yashika Uvaraj
-### Engineer | Problem Solver |Full-Stack Develope
+### Engineer | Problem Solver |Full-Stack Developer
 
 Dedicated to mastering the art of scalable software engineering. My current focus is at the intersection of Clean Architecture and Advanced Data Structures. I am actively refining my ability to break down ambiguous problems into modular, high-performance code, with a long-term goal of contributing to large-scale distributed systems.
 
