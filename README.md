@@ -14,13 +14,8 @@ Dedicated to mastering the art of scalable software engineering. My current focu
 
 ---
 
-### Professional Links
-
-* **Portfolio:** [pro-jectfolio.netlify.app](https://pro-jectfolio.netlify.app)
+### Professional Link
 * **LinkedIn:** [linkedin.com/in/yashika-uvaraj](https://www.linkedin.com/in/yashika-uvaraj-5381161a3/)
-* **LeetCode:** [leetcode.com/yashika_u](https://leetcode.com/yashika_u/)
-* **Resume:** [View My Experience](https://drive.google.com/file/d/1tk9cM1Xvww_vLpZE4xVQnE1Pk9NaXIFu/view?usp=drivesdk)
-
 ---
 
 
