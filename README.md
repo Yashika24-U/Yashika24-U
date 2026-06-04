@@ -1,4 +1,4 @@
-# Yashika Uvaraj
+# Yashika U
 ### Engineer | Problem Solver |Full-Stack Developer
 
 Dedicated to mastering the art of scalable software engineering. My current focus is at the intersection of Clean Architecture and Advanced Data Structures. I am actively refining my ability to break down ambiguous problems into modular, high-performance code, with a long-term goal of contributing to large-scale distributed systems.
@@ -9,7 +9,7 @@ Dedicated to mastering the art of scalable software engineering. My current focu
 
 ### 💻 Languages & Core
 * **Languages:** JavaScript (ES6+), Java, Python, C, C++
-* **Architectural Concepts:** System Design (Scalability, Distributed Systems, Load Balancing)
+* **Architectural Concepts:** System Design (Scalability, Distributed Systems, Load Balancing),AWS
 
 ### 🌐 Frontend Development
 * **Frameworks:** Next.js, React.js
